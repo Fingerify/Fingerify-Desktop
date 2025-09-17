@@ -1,7 +1,5 @@
 # Fingerify: Identity Verification Powered by Fingerprints
 
-**🚀 اولین هستیم، بهترین می‌مانیم.**
-
 Fingerify is a specialized desktop application designed for freelancers to secure their online identity and prevent IP leaks on international platforms such as Upwork, Fiverr, and PayPal.
 
 <div align="center">
