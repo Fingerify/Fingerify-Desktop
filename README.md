@@ -7,6 +7,9 @@ Fingerify: Secure your online identity with the ultimate fingerprinting tool.
 
 Fingerify is a specialized desktop application designed for freelancers to secure their online identity and prevent IP leaks on international platforms such as Upwork, Fiverr, and PayPal.
 
+<img width="396" height="308" alt="image" src="https://github.com/user-attachments/assets/2b95b090-c30c-4d85-915d-c7649bd759c7" />
+
+
 ## Key Features
 
 * **Maximum Security:** Protects against all types of leaks, including WebRTC, DNS, and Canvas, using advanced fingerprinting technology.
