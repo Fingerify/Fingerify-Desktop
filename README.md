@@ -10,7 +10,7 @@ Fingerify is a specialized desktop application designed for freelancers to secur
 ## Key Features
 
 * **Maximum Security:** Protects against all types of leaks, including WebRTC, DNS, and Canvas, using advanced fingerprinting technology.
-* **High Performance:** Built on the high-speed **Hysteria 2 protocol** for fast and stable connections to your Linux server.
+* **High Performance:** Built on the high-speed **Sing-Box protocol** for fast and stable connections to your Linux server.
 * **Simple to Use:** A user-friendly interface that automates complex network configurations, allowing you to connect with a single click.
 * **Residential & Fingerprint Modes:** Offers two distinct connection modes to suit both casual browsing and sensitive verification tasks.
 * **System-Wide Protection:** Features a system proxy menu to route all your computer's internet traffic through the secure connection.
