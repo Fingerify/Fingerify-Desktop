@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.pdb
+*.obj
+[Dd]ebug/
+[Rr]elease/
+obj/
+bin/
+*.exe
+*.dll
+*.log
