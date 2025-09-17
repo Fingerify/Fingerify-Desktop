@@ -24,8 +24,6 @@ Fingerify is a specialized desktop application designed for freelancers to secur
 
 ## Documentation & Support
 
-For a complete user guide and technical documentation, visit our official website or check out the [full user guide link here].
-
 If you need technical support or have any questions, feel free to contact our support team via Telegram:
 
 * **Telegram ID:** @Freelancer_support_ict
