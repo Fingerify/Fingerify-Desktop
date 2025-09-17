@@ -19,7 +19,7 @@ Fingerify is a specialized desktop application designed for freelancers to secur
 
 1.  **Prerequisites:** You need a configured Linux VPS with your Fingerify fingerprinting service set up.
 2.  **Installation:** Download the latest version of Fingerify for Windows from our website. Once downloaded, simply install the application on your computer.
-3.  **First Launch:** On the first launch, enter your unique Hysteria 2 URL provided by our support team.
+3.  **First Launch:** On the first launch, enter your unique Config URL provided by our support team.
 4.  **Connect:** Choose your desired connection mode (Fingerprint or Residential IP) and click "Connect."
 
 ## Documentation & Support
